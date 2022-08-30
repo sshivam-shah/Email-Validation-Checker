@@ -1,2 +1,2 @@
 # Email-Validation-Checker
-Basic python project that check the emails validation.
+Basic python codes that check the emails validation.
